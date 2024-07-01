@@ -1,1 +1,1 @@
-web: gunicorn blogCafe.wsgi
+web: python manage.py collectstatic && gunicorn blogCafe.wsgi

@@ -27,5 +27,5 @@ Esta aplicación web permite la gestión y seguimiento de cursos para baristas, 
 El proyecto está desplegado en [Railway](https://web-production-86a0.up.railway.app/).
 
 ## COMENTARIOS:
-- Todavia presenta problemas con los enlaces en el deploy al deslogearse o bien al acceder a los cursos.
+- Resuelto el deploy funciona sin problemas sin embargo tengo algunos inconvenientes con el front con algunos estilos
 - Sobre este problema estoy trabajando...

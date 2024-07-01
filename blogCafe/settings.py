@@ -124,3 +124,5 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 CSRF_TRUSTED_ORIGINS = ['https://web-production-86a0.up.railway.app']
+
+LOGOUT_REDIRECT_URL = '/'
